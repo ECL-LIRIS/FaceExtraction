@@ -40,23 +40,13 @@ Karras et. al, "Progressive Growing of GANs for Improved Quality, Stability, and
 Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping, "Maskgan: Towards diverse and interactive facial image manipulation", in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020
 
 
-# Citation
-```
-@inproceedings{yin2022faceocc,
-      title={FaceOcc: A Diverse, High-quality Face Occlusion Dataset for Human Face Extraction}, 
-      author={Xiangnan Yin and Liming Chen},
-      booktitle={TAIMA 2022: Traitement et Analyse de l'Information M{\'e}thodes et Applications},
-      year={2022},
-}
-```
-
 # Dataset Agreement
 * The FaceOcc dataset is available for **non-commercial research purposes** only.
 * You agree **not to** reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 * You agree **not to** further copy, publish or distribute any portion of the CelebAMask-HQ dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
 
-## License and Citation
+# License and Citation
 The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
 
 ```
